@@ -1,5 +1,15 @@
-### Hi there 👋
+<h1 align="center">
+  Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/>,  I'm Rakib Hasan Amiya
+</h1>
+<p align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/From-Dhaka%2C%20Bangladesh-green?style=plastic&link=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDhaka" /> <img alt="Static Badge" src="https://img.shields.io/badge/Location-Berlin%2CGermany-yellow?logoColor=rgb&style=plastic&link=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBerlin" /> <img alt="Static Badge" src="https://img.shields.io/badge/Download_date-31.12.1991-green?style=plastic" /> <img alt="Static Badge" src="https://komarev.com/ghpvc/?username=rhasan33&color=blueviolet&style=plastic" />
+</p>
 
+<h2 align="center">About me</h2>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rhasan33&theme=dark)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp;&nbsp; ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhasan33&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhasan33&hide_progress=false&theme=dark)
 <!--
 **rhasan33/rhasan33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

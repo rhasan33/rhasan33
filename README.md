@@ -7,8 +7,6 @@
 
 <h2 align="center">About me</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rhasan33&theme=dark)](https://git.io/streak-stats) &nbsp; ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhasan33&hide_progress=false&theme=dark)
-
 <!--
 **rhasan33/rhasan33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
